@@ -23,6 +23,7 @@ public class TestCsvReader {
 			map.put(str[0], str[2]);
 		}
 		System.out.println(map);
+		System.out.println("Write Data :" + map);
 
 	}
 
